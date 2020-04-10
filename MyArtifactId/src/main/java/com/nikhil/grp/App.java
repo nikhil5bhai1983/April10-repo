@@ -1,4 +1,4 @@
-package com.nikhil.grp.MyArtifactId;
+package com.nikhil.grp;
 
 /**
  * Hello world!
