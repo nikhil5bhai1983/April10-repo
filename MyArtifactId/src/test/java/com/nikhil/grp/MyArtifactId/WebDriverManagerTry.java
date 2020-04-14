@@ -23,5 +23,10 @@ public class WebDriverManagerTry {
 		String expectedPageTitle = "Google";
 		Assert.assertTrue(driver.getTitle().contains(expectedPageTitle), "Title isnt matching");
 	}
+	
+	@ Test (priority = 3)
+	public void test3() {
+		
+	}
 
 }
