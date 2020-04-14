@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11943" started-at="2020-04-14T20:38:52Z" finished-at="2020-04-14T20:39:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11943" started-at="2020-04-14T20:38:52Z" finished-at="2020-04-14T20:39:04Z">
+      <class name="com.nikhil.grp.MyArtifactId.WebDriverManagerTry">
+        <test-method status="PASS" signature="setupTest()[pri:1, instance:com.nikhil.grp.MyArtifactId.WebDriverManagerTry@ae45eb6]" name="setupTest" duration-ms="7705" started-at="2020-04-14T15:38:52Z" finished-at="2020-04-14T15:38:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="openGoogleTest()[pri:2, instance:com.nikhil.grp.MyArtifactId.WebDriverManagerTry@ae45eb6]" name="openGoogleTest" duration-ms="4181" started-at="2020-04-14T15:38:59Z" finished-at="2020-04-14T15:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogleTest -->
+      </class> <!-- com.nikhil.grp.MyArtifactId.WebDriverManagerTry -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
